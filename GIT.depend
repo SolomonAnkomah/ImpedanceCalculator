@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1706733660 source:c:\users\solom\desktop\git\test.cpp
+	"Circuit.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<limits>
+	<algorithm>
+
+1706733707 c:\users\solom\desktop\git\circuit.h
+	<iostream>
+	<vector>
+	<string>
+	<cmath>
+
+1706733646 source:c:\users\solom\desktop\git\source.cpp
+	"Circuit.h"
+	<iostream>
+	<fstream>
+	<utility>
+	<vector>
+	<string>
+	<unordered_map>
+	<unordered_set>
+	<cmath>
+	<regex>
+	<algorithm>
+	<random>
+
